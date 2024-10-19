@@ -1,0 +1,10 @@
+[
+  {
+    "before": "re",
+    "after": [
+      "arr = [0 for i in range(11115)]",
+      "    return x + y + z"
+    ],
+    "matchCase": true
+  }
+]
